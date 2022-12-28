@@ -1,15 +1,12 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Taxx'd
 
-My Chrome Extension
+Taxx'd
 
 ## Features
 
-- Feature 1
-- Feature 2
+Taxx'd is a simple Chrome extension that provides the price including sales tax for Canadian provinces/territories.
 
 ## Install
-
-[**Chrome** extension]()
 
 ## Contribution
 
